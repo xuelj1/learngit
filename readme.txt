@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 44444
 555
 77777dev1
+issue101
